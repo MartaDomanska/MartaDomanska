@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Marta Domańska 👋
+
+- 🔭 I’m currently working as Webmaster Developer 👨‍💻
+- 🌱 I’m currently learning React.js and Python
+
+
 
 <!--
 **MartaDomanska/MartaDomanska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
