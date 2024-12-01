@@ -1,6 +1,6 @@
 ## Hi there, I'm Marta Domańska 👋
 
-- 🔭 I’m currently working as Webmaster Developer 👨‍💻
+- 🔭 I’m currently working as Web Developer 👨‍💻
 - 🌱 I’m currently learning React.js and Python
 
 
