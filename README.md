@@ -2,8 +2,6 @@ Hi there, I'm Marta Domańska 👋
 
 - 🔭 I am currently working as a Web Developer, specializing in creating responsive, user-friendly websites and web applications.
 - 💻 I love writing clean, efficient code and exploring new technologies to keep my skills sharp.
-- 🍁 Cloud enthusiast
-- 🛠️ My main tools include HTML, CSS, JavaScript, React, and Git. I also enjoy experimenting with TypeScript, React.js and Python.
 - 🌍 When I am not coding, I enjoy contributing to open-source projects, solving coding challenges, and staying up to date with the latest industry trends.
 - 📫 Feel free to connect with me or reach out via mweronika.domanska@gmail.com
 
