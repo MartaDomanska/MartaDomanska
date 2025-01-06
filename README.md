@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 Hi there, I'm Marta Domańska 👋
 
 - 🔭 I am currently working as a Web Developer, specializing in creating responsive, user-friendly websites and web applications.
@@ -8,7 +6,12 @@ Hi there, I'm Marta Domańska 👋
 - 🌍 When I am not coding, I enjoy contributing to open-source projects, solving coding challenges, and staying up to date with the latest industry trends.
 - 📫 Feel free to connect with me or reach out via mweronika.domanska@gmail.com
 
-
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
 
 <!--
