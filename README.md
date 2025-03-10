@@ -1,11 +1,11 @@
 
 Hi there, I'm Marta Domańska 👋
 
-🔭 I am currently working as a Web Developer with a growing passion for DevOps and Automation, focusing on optimizing infrastructure and improving deployment processes.
-💻 I have experience in writing clean, efficient code, and I’m expanding my expertise to work with CI/CD pipelines, cloud technologies, and automation tools.
-🌍 When I’m not coding, I dive into automating workflows, optimizing systems, and keeping up with the latest DevOps practices, including Infrastructure as Code (IaC), containerization, and cloud platforms.
-📫 Feel free to connect with me or reach out via mweronika.domanska@gmail.com.
-
+🔭 I am currently working as a Web Developer with a growing passion for DevOps and Automation, focusing on optimizing infrastructure and improving deployment processes.<br />
+💻 I have experience in writing clean, efficient code, and I’m expanding my expertise to work with CI/CD pipelines, cloud technologies, and automation tools.<br />
+🌍 When I’m not coding, I dive into automating workflows, optimizing systems, and keeping up with the latest DevOps practices, including Infrastructure as Code (IaC), containerization, and cloud platforms.<br />
+📫 Feel free to connect with me or reach out via mweronika.domanska@gmail.com.<br />
+<br /><br />
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> 
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="max-width: 100%;"/> 
