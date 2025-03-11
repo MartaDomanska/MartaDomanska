@@ -4,8 +4,8 @@
 </h1>
 
 🔭 I am currently working as a Web Developer with a growing passion for DevOps and Automation, focusing on optimizing infrastructure and improving deployment processes.<br />
-💻 I have experience in writing clean, efficient code, and I’m expanding my expertise to work with CI/CD pipelines, cloud technologies, and automation tools.<br />
-🌍 When I’m not coding, I dive into automating workflows, optimizing systems, and keeping up with the latest DevOps practices, including Infrastructure as Code (IaC), containerization, and cloud platforms.<br />
+💻 I have experience in writing clean code and I’m expanding my expertise to work with cloud technologies.<br />
+<br /><br />
 📫 Feel free to connect with me or reach out via mweronika.domanska@gmail.com.<br />
 <br /><br />
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> 
