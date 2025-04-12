@@ -6,7 +6,7 @@
 🔭 I am currently working as a Web Developer with a growing passion for Cloud and Automation, focusing on optimizing infrastructure and improving deployment processes.<br />
 💻 I have experience in writing clean code and I’m expanding my expertise to work with cloud technologies.<br />
 <br /><br />
-📫 Feel free to connect with me or reach out via mweronika.domanska@gmail.com.<br />
+
 <br />
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> 
 <p align="left"> 
