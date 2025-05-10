@@ -3,7 +3,7 @@
   Hi there, I'm Marta Domańska 👋
 </h1>
 
-🔭 I am currently working as a Web Developer with a growing passion for Cloud and Automation, focusing on optimizing infrastructure and improving deployment processes.<br />
+🔭 I am currently working as a Web Developer, focusing on optimizing infrastructure and improving deployment processes.<br />
 💻 I have experience in writing clean code and I’m expanding my expertise to work with cloud technologies.<br />
 <br />
 
